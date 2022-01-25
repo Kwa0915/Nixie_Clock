@@ -50,23 +50,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=STM32F103C4T6A.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PYQDBJLO
-
-[Document2]
 DocumentPath=Nixie_Clock.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +66,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EWQUDQNY
 
-[Document3]
+[Document2]
 DocumentPath=Nixie_Clock.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +83,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YWIAFCUI
 
-[Document4]
+[Document3]
 DocumentPath=PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YONANIPN
 
-[Document5]
+[Document4]
 DocumentPath=Nixie_Clock.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document5]
 DocumentPath=Job1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document6]
 DocumentPath=Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LNNXDCPX
 
-[Document8]
+[Document7]
 DocumentPath=Nixie_Clock.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,6 +168,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WHLGSIIW
 
+[Document8]
+DocumentPath=STM32F042F4P6.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PYQDBJLO
+
 [Document9]
 DocumentPath=kwa.PcbLib
 AnnotationEnabled=1
@@ -200,7 +200,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JTLCXDAW
 
 [Document10]
 DocumentPath=kwa.SchLib
@@ -220,95 +220,147 @@ GenerateClassCluster=0
 DocumentUniqueId=UDLSOEOT
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Free Documents\BOM\Bill of Materials-Nixie_Clock.xlsx
+DocumentPath=Project Outputs for Nixie_Clock\BOM\Bill of Materials-Nixie_Clock.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Nixie_Clock\Design Rule Check - Nixie_Clock.html
+DocumentPath=Project Outputs for Nixie_Clock\NC Drill\Nixie_Clock-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Free Documents\Gerber\Nixie_Clock.1
+DocumentPath=Project Outputs for Nixie_Clock\NC Drill\Nixie_Clock-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Free Documents\NC Drill\Nixie_Clock.DRR
+DocumentPath=Project Outputs for Nixie_Clock\Gerber\Nixie_Clock.1
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Free Documents\Gerber\Nixie_Clock.EXTREP
+DocumentPath=Project Outputs for Nixie_Clock\Gerber\Nixie_Clock.2
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Free Documents\Gerber\Nixie_Clock.GBL
+DocumentPath=Project Outputs for Nixie_Clock\Gerber\Nixie_Clock.7
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Free Documents\Gerber\Nixie_Clock.GBO
+DocumentPath=Project Outputs for Nixie_Clock\NC Drill\Nixie_Clock.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Free Documents\Gerber\Nixie_Clock.GBP
+DocumentPath=Project Outputs for Nixie_Clock\Gerber\Nixie_Clock.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Free Documents\Gerber\Nixie_Clock.GBS
+DocumentPath=Project Outputs for Nixie_Clock\Gerber\Nixie_Clock.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Free Documents\Gerber\Nixie_Clock.GKO
+DocumentPath=Project Outputs for Nixie_Clock\Gerber\Nixie_Clock.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Free Documents\Gerber\Nixie_Clock.GM1
+DocumentPath=Project Outputs for Nixie_Clock\Gerber\Nixie_Clock.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Free Documents\Gerber\Nixie_Clock.GM13
+DocumentPath=Project Outputs for Nixie_Clock\Gerber\Nixie_Clock.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Free Documents\Gerber\Nixie_Clock.GM15
+DocumentPath=Project Outputs for Nixie_Clock\Gerber\Nixie_Clock.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Free Documents\Gerber\Nixie_Clock.GML
+DocumentPath=Project Outputs for Nixie_Clock\Gerber\Nixie_Clock.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Free Documents\Gerber\Nixie_Clock.GPB
+DocumentPath=Project Outputs for Nixie_Clock\Gerber\Nixie_Clock.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Free Documents\Gerber\Nixie_Clock.GPT
+DocumentPath=Project Outputs for Nixie_Clock\Gerber\Nixie_Clock.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Free Documents\Gerber\Nixie_Clock.GTL
+DocumentPath=Project Outputs for Nixie_Clock\Gerber\Nixie_Clock.GM5
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Free Documents\Gerber\Nixie_Clock.GTO
+DocumentPath=Project Outputs for Nixie_Clock\Gerber\Nixie_Clock.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for Free Documents\Gerber\Nixie_Clock.GTP
+DocumentPath=Project Outputs for Nixie_Clock\Gerber\Nixie_Clock.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for Free Documents\Gerber\Nixie_Clock.GTS
+DocumentPath=Project Outputs for Nixie_Clock\Gerber\Nixie_Clock.GM16
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for Free Documents\NC Drill\Nixie_Clock.LDP
+DocumentPath=Project Outputs for Nixie_Clock\Gerber\Nixie_Clock.GM20
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for Free Documents\Gerber\Nixie_Clock.REP
+DocumentPath=Project Outputs for Nixie_Clock\Gerber\Nixie_Clock.GM21
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for Free Documents\Gerber\Nixie_Clock.RUL
+DocumentPath=Project Outputs for Nixie_Clock\Gerber\Nixie_Clock.GM23
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Nixie_Clock\Gerber\Nixie_Clock.GM24
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for Nixie_Clock\Gerber\Nixie_Clock.GML
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for Nixie_Clock\Gerber\Nixie_Clock.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for Nixie_Clock\Gerber\Nixie_Clock.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for Nixie_Clock\Gerber\Nixie_Clock.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for Nixie_Clock\Gerber\Nixie_Clock.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for Nixie_Clock\Gerber\Nixie_Clock.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for Nixie_Clock\Gerber\Nixie_Clock.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for Nixie_Clock\Gerber\Nixie_Clock.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for Nixie_Clock\Gerber\Nixie_Clock.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for Nixie_Clock\NC Drill\Nixie_Clock.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for Nixie_Clock\Gerber\Nixie_Clock.REP
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for Nixie_Clock\Gerber\Nixie_Clock.RUL
 DItemRevisionGUID=
 
 [Configuration1]
