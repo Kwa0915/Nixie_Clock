@@ -1,2 +1,2 @@
 # Nixie_Clock
-A custom module for Nixie Clock System
+A custom system for Nixie Clock Module
